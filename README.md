@@ -1,7 +1,6 @@
 # Prediction-using-Unsupervised-ML
 
-● From the given ‘Iris’ dataset, predict the optimum number of clusters
-and represent it visually.
+predicting the optimum number of clusters and representing it visually from the given ‘Iris’ dataset.
 
 ● Use R or Python or perform this task
 
